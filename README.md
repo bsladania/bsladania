@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=bsladania&label=PROFILE+VIEWS)
 
+## GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=bsladania&show_icons=true)
+
+
